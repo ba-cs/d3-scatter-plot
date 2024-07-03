@@ -18,7 +18,6 @@ Fulfill the below user stories. Use whichever libraries or APIs you need. Give i
 **Hint**: Here's a dataset you can use to build this: https://raw.githubusercontent.com/FreeCodeCamp/ProjectReferenceData/master/cyclist-data.json
 
 ## My Work
-
-https://codepen.io/ayoisaiah/full/jLwbZb/
+(https://codepen.io/ba-cs/pen/ExzqeMM)
 
 ![Visualize Data with a Scatterplot Graph](https://codepen.io/ba-cs/pen/ExzqeMM)
