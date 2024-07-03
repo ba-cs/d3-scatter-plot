@@ -21,4 +21,4 @@ Fulfill the below user stories. Use whichever libraries or APIs you need. Give i
 
 https://codepen.io/ayoisaiah/full/jLwbZb/
 
-![Visualize Data with a Scatterplot Graph](https://cdn.rawgit.com/ayoisaiah/d3-scatter-plot/71a079be/screenshot.png)
+![Visualize Data with a Scatterplot Graph](https://codepen.io/ba-cs/pen/ExzqeMM)
