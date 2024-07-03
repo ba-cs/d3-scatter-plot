@@ -4,7 +4,6 @@ const margin = {
   bottom: 30,
   left: 40,
 };
-
 const width = 800 - margin.left - margin.right;
 const height = 500 - margin.top - margin.bottom;
 

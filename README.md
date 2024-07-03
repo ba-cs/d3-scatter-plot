@@ -22,3 +22,4 @@ Fulfill the below user stories. Use whichever libraries or APIs you need. Give i
 
 ![Visualize Data with a Scatterplot Graph]
 <img width="867" alt="Screenshot 2024-07-02 at 11 31 50 PM" src="https://github.com/ba-cs/d3-scatter-plot/assets/139737646/cbc96060-d7a1-41f8-9e31-9008f9326b2e">
+

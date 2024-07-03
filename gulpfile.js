@@ -8,7 +8,6 @@ gulp.task('browserSync', () => {
     },
   });
 });
-
 gulp.task('default', ['browserSync'], () => {
   gulp.watch(['src/**/*'], browserSync.reload);
 });
