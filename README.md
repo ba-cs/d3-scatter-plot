@@ -1,8 +1,8 @@
 # Visualize Data with a Scatterplot Graph
 
-This is the [seventh project](https://www.freecodecamp.org/challenges/visualize-data-with-a-scatterplot-graph) for freeCodeCamp's Data Visualization certificate.
+This is the (https://www.freecodecamp.org/challenges/visualize-data-with-a-scatterplot-graph) for freeCodeCamp's Data Visualization certificate.
 
-Completed On: 10 August 2017  
+Completed On: July 2nd, 2024  
 
 ## Objective
 
